@@ -1,0 +1,129 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TLV1117-33CDCYG3
+D LDO Regulator Pos 3.3V 0.8A 4-Pin(3+Tab) SOT-223 Tube
+K
+F https://www.ti.com/lit/gpn/tlv1117
+$ENDCMP
+#
+$CMP 10164359-00011LF
+D USB Type C Receptacle SMT Single Row 6Pin
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10164359.pdf
+$ENDCMP
+#
+$CMP AP1509-50SG-13
+D DiodesZetex, AP1509-50SG-13 DC-DC Converter 2A 8-Pin, SOP
+K
+F https://www.diodes.com//assets/Datasheets/AP1509.pdf
+$ENDCMP
+#
+$CMP WSLP1206R0100FEA
+D RESISTOR, 1206 0.010 Ohm +/-1% 0.25 W
+K
+F http://componentsearchengine.com/Datasheets/1/WSLP1206R0100FEA.pdf
+$ENDCMP
+#
+$CMP 150080GS75000
+D 150080GS75000, Wurth Elektronik WL-SMCW 520 nm Green LED, 2012 (0805) Clear SMD package
+K
+F https://katalog.we-online.com/led/datasheet/150080GS75000.pdf
+$ENDCMP
+#
+$CMP PI4ULS5V202XVEX
+D Voltage Level Translator Bidirectional 1 Circuit 2 Channel 20Mbps 8-UDFN (1.6x1.2)
+K
+F https://www.diodes.com//assets/Datasheets/PI4ULS5V202.pdf
+$ENDCMP
+#
+$CMP DMTH6009LK3Q-13
+D MOSFET N-Ch Enh Mode Fet 60Vdss 20Vgss 60W
+K
+F https://componentsearchengine.com/Datasheets/1/DMTH6009LK3Q-13.pdf
+$ENDCMP
+#
+$CMP DM3AT-SF-PEJM5_40_
+D Memory Card Connectors MICRO SD CD CONN STD SMT PUSHPUSH
+K
+F https://componentsearchengine.com/Datasheets/2/DM3AT-SF-PEJM5(40).pdf
+$ENDCMP
+#
+$CMP PTS810SJG250SMTRLFS
+D PTS810SJG250SMTRLFS (Tactile Switches) Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 100000Cycles 3.92N SMD T/R
+K
+F https://www.ckswitches.com/media/1476/pts810.pdf
+$ENDCMP
+#
+$CMP TPS22811LRPWR
+D Power Switch ICs - Power Distribution 2.7-V to 16-V, 10-A, 6-mohm load switch with fast overvoltage protection and current monitoring
+K
+F https://www.ti.com/lit/ds/symlink/tps22811.pdf?ts=1680842431884&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS22811
+$ENDCMP
+#
+$CMP SF-3812F3000T-2
+D Surface Mount Fuses 390K  OHM   1% 1/2W
+K
+F https://www.bourns.com/docs/product-datasheets/SF-3812F-T.pdf
+$ENDCMP
+#
+$CMP 1N5817
+D 1N5817, Schottky Diode,  1A max, 20V, 2-Pin, DO-41
+K
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00001625.pdf
+$ENDCMP
+#
+$CMP RB051MM-2YTR
+D 20V, 3A, SOD-123FL, Schottky Barrier Diode
+K
+F https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rb051mm-2ytr-e.pdf
+$ENDCMP
+#
+$CMP PAC18R1-43D28F
+D 18 mm Low Profile Absolute Encoder
+K
+F https://www.bourns.com/docs/product-datasheets/PAC18R.pdf
+$ENDCMP
+#
+$CMP PEC11L-4315F-N0009
+D 11 mm Low Profile Encoder18 Detents (9 pulses) PC Pin Horizontal/Rear Facing
+K
+F https://bourns.com/docs/product-datasheets/pec11l.pdf
+$ENDCMP
+#
+$CMP PEC11L-4315F-S0009
+D 11 mm Low Profile Encoder
+K
+F https://bourns.com/docs/product-datasheets/pec11l.pdf
+$ENDCMP
+#
+$CMP PHAP3344BR
+D Tactile Switches TACT SWITCH PCB MOUNT, SPST-NO, 0.05A, 12V, 260GF
+K
+F https://www.apem.com/idec-apem/en_IN/medias/6mmMJTPSERIES16NOV2021.pdf?context=bWFzdGVyfGRvY3VtZW50c3w4MjA4OTcxfGFwcGxpY2F0aW9uL3BkZnxoM2QvaDdiLzk0MTAxNzQyNTUxMzQvNm1tTUpUUFNFUklFUzE2Tk9WMjAyMS5wZGZ8MmExMDM3ODdmZmFhZmQxNDAzMzQ5YTYwZTlhMWRjZWRkMGE3MzM0Mjg2
+$ENDCMP
+#
+$CMP PTS526_SMG15J_SMTR2_LFS
+D Tactile Switches 50mA 12VDC, 5.2x5.2mm, 1.5mm H, 160gf, J leads, Ground pin, metal actuator
+K
+F https://www.arrow.com/en/products/pts526-smg15j-smtr2-lfs/ck
+$ENDCMP
+#
+$CMP PTS636_SP50_SMTR_LFS
+D Tactile Switches Tact 50mA 12VDC, 6.0x3.5, 5.0mm H, 320gf, G leads, No ground pin, Black Actuator
+K
+F https://componentsearchengine.com/Datasheets/1/PTS636SP50SMTRLFS.pdf
+$ENDCMP
+#
+$CMP RIC11-22S16D5M-TH
+D 12 mm, 5 Vdc, 20 PPR, Through Hole, Mechanical Panel Mount Encoder
+K
+F https://www.sameskydevices.com/product/resource/supplyframepdf/ric11.pdf
+$ENDCMP
+#
+#End Doc Library

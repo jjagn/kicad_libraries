@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10164359-00011LF
+D USB Type C Receptacle SMT Single Row 6Pin
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10164359.pdf
+$ENDCMP
+#
+$CMP TLV1117-33CDCYG3
+D LDO Regulator Pos 3.3V 0.8A 4-Pin(3+Tab) SOT-223 Tube
+K
+F https://www.ti.com/lit/gpn/tlv1117
+$ENDCMP
+#
+$CMP DS3231SN#T&R
+D MAXIM INTEGRATED PRODUCTS - DS3231SN#T&R - RTC IC, Date Time Format (Day/Date/Month/Year hh:mm:ss), I2C, 2.3 V to 5.5 V supply, SOIC-16
+K
+F https://datasheets.maximintegrated.com/en/ds/DS3231.pdf
+$ENDCMP
+#
+$CMP BAT-HLD-001
+D Battery Holders, CR2032, 1 Position, Horizontal, Nickel, PCB Mount Alignment, Power, -40  257 F [-40  125 C]
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FC-BAT-HLD-001-xx%7FE%7Fpdf%7FEnglish%7FENG_CD_C-BAT-HLD-001-xx_E.pdf%7FBAT-HLD-001
+$ENDCMP
+#
+$CMP 150080GS75000
+D 150080GS75000, Wurth Elektronik WL-SMCW 520 nm Green LED, 2012 (0805) Clear SMD package
+K
+F https://katalog.we-online.com/led/datasheet/150080GS75000.pdf
+$ENDCMP
+#End Doc Library
