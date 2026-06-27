@@ -2,6 +2,386 @@
 	(version 20251024)
 	(generator "kicad_symbol_editor")
 	(generator_version "10.0")
+	(symbol "CSD18543Q3A"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "Q"
+			(at -12.7 8.62 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "CSD18543Q3A"
+			(at -12.7 -11.62 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Snapeda:TRANS_CSD18543Q3A"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "60-V, N channel NexFET™ power MOSFET, single SON 3 mm x 3 mm, 9.9 mOhm"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Texas Instruments"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "VSONP-8 Texas Instruments"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/CSD18543Q3A/Texas+Instruments/view-part/?ref=snap"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "CSD18543Q3A"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/CSD18543Q3A/Texas+Instruments/view-part/?ref=eda"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(symbol "CSD18543Q3A_0_0"
+			(rectangle
+				(start -12.7 -7.62)
+				(end 12.7 7.62)
+				(stroke
+					(width 0.41)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 -5.08 0)
+				(length 5.08)
+				(name "S"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 -5.08 0)
+				(length 5.08)
+				(hide yes)
+				(name "S"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 -5.08 0)
+				(length 5.08)
+				(hide yes)
+				(name "S"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 0 0)
+				(length 5.08)
+				(name "G"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 5.08 0)
+				(length 5.08)
+				(name "D"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 5.08 0)
+				(length 5.08)
+				(hide yes)
+				(name "D"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 5.08 0)
+				(length 5.08)
+				(hide yes)
+				(name "D"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 5.08 0)
+				(length 5.08)
+				(hide yes)
+				(name "D"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 5.08 0)
+				(length 5.08)
+				(hide yes)
+				(name "D"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 5.08 0)
+				(length 5.08)
+				(hide yes)
+				(name "D"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 5.08 0)
+				(length 5.08)
+				(hide yes)
+				(name "D"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 5.08 0)
+				(length 5.08)
+				(hide yes)
+				(name "D"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "ESP32-S3-WROOM-1-N8R8"
 		(pin_names
 			(offset 1.016)
@@ -13,7 +393,7 @@
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
 			(at -10.16 34.1122 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -24,7 +404,7 @@
 		)
 		(property "Value" "ESP32-S3-WROOM-1-N8R8"
 			(at -10.16 -35.56 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -35,9 +415,8 @@
 		)
 		(property "Footprint" "Snapeda:ESP32-S3-WROOM-1-N8R8_XCVR_ESP32S3WROOM1N8R8"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47,9 +426,8 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58,9 +436,8 @@
 		)
 		(property "Description" "Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz PCB Trace Surface Mount"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70,9 +447,8 @@
 		)
 		(property "MF" "Espressif Systems"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -82,9 +458,8 @@
 		)
 		(property "PACKAGE" "SMD-41 Espressif Systems"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -94,9 +469,8 @@
 		)
 		(property "PRICE" "None"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -106,9 +480,8 @@
 		)
 		(property "Package" "NON STANDARD Espressif Systems"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -118,9 +491,8 @@
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N8R8/Espressif+Systems/view-part/?ref=eda"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -130,9 +502,8 @@
 		)
 		(property "Price" "None"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -142,9 +513,8 @@
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N8R8/Espressif+Systems/view-part/?ref=snap"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -154,9 +524,8 @@
 		)
 		(property "MP" "ESP32-S3-WROOM-1-N8R8"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -166,9 +535,8 @@
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=8936581&manufacturer=Espressif Systems&part_name=ESP32-S3-WROOM-1-N8R8&search_term=esp32-s3-wroom-1"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -178,9 +546,8 @@
 		)
 		(property "Description_1" "\nBluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz PCB Trace Surface Mount\n"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -190,9 +557,8 @@
 		)
 		(property "Availability" "In Stock"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -202,9 +568,8 @@
 		)
 		(property "AVAILABILITY" "In Stock"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -214,9 +579,8 @@
 		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/ESP32S3WROOM1N8R8/?ref=eda"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1725,7 +2089,7 @@
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
 			(at -21.59 15.24 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -1736,7 +2100,7 @@
 		)
 		(property "Value" "MOUDLE-SEEEDUINO-XIAO-ESP32C3"
 			(at -21.59 13.97 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -1747,9 +2111,8 @@
 		)
 		(property "Footprint" "Snapeda:MOUDLE14P-SMD-2.54-21X17.8MM"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1759,9 +2122,8 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1770,9 +2132,8 @@
 		)
 		(property "Description" ""
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2346,7 +2707,7 @@
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
 			(at -12.7 22.86 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -2357,7 +2718,7 @@
 		)
 		(property "Value" "TMC2209_SILENTSTEPSTICK"
 			(at -12.7 -22.86 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -2368,9 +2729,8 @@
 		)
 		(property "Footprint" "Snapeda:TMC2209_SILENTSTEPSTICK_MODULE_TMC2209_SILENTSTEPSTICK"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2380,9 +2740,8 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2391,9 +2750,8 @@
 		)
 		(property "Description" ""
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2402,9 +2760,8 @@
 		)
 		(property "MF" "Trinamic Motion Control GmbH"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2414,9 +2771,8 @@
 		)
 		(property "Description_1" "\nTMC2209 Motor Controller/Driver Power Management Evaluation Board\n"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2426,9 +2782,8 @@
 		)
 		(property "Package" "None"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2438,9 +2793,8 @@
 		)
 		(property "Price" "None"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2450,9 +2804,8 @@
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TMC2209%20SILENTSTEPSTICK/Trinamic+Motion+Control+GmbH/view-part/?ref=eda"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2462,9 +2815,8 @@
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2474,9 +2826,8 @@
 		)
 		(property "PARTREV" "1.20"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2486,9 +2837,8 @@
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TMC2209%20SILENTSTEPSTICK/Trinamic+Motion+Control+GmbH/view-part/?ref=snap"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2498,9 +2848,8 @@
 		)
 		(property "MP" "TMC2209 SILENTSTEPSTICK"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2510,9 +2859,8 @@
 		)
 		(property "MANUFACTURER" "Trinamic Motion Control GmbH"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2522,9 +2870,8 @@
 		)
 		(property "Availability" "In Stock"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2534,9 +2881,8 @@
 		)
 		(property "SNAPEDA_PN" "TMC2209 SILENTSTEPSTICK"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2883,6 +3229,511 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "TPS43060RTER"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "U"
+			(at -15.24 26.67 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "TPS43060RTER"
+			(at -15.24 -26.67 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" "Snapeda:QFN50P300X300X80-17N"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps43060.pdf?ts=1782556016240"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Low Iq, 58V, Synchronous Boost Controller w/ Wide Input Voltage & 7.5V Gate Drive for Standard FETs"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Texas Instruments"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.8mm"
+			(at 48.768 -11.938 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "WQFN-16 Texas Instruments"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 55.372 -3.302 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TPS43060RTER/Texas+Instruments/view-part/?ref=eda"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "4205254/D 01/11"
+			(at 51.816 -24.892 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPS43060RTER/Texas+Instruments/view-part/?ref=snap"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "TPS43060RTER"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Texas Instruments"
+			(at 0 0 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(symbol "TPS43060RTER_0_0"
+			(rectangle
+				(start -15.24 -25.4)
+				(end 15.24 25.4)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin passive line
+				(at -20.32 -12.7 0)
+				(length 5.08)
+				(name "RT/CLK"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -20.32 -10.16 0)
+				(length 5.08)
+				(name "SS"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 20.32 0 180)
+				(length 5.08)
+				(name "COMP"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -20.32 0 0)
+				(length 5.08)
+				(name "FB"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -20.32 5.08 0)
+				(length 5.08)
+				(name "ISNS-"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -20.32 7.62 0)
+				(length 5.08)
+				(name "ISNS+"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -20.32 17.78 0)
+				(length 5.08)
+				(name "VIN"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 20.32 12.7 180)
+				(length 5.08)
+				(name "LDRV"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 20.32 -22.86 180)
+				(length 5.08)
+				(name "PGND"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -20.32 22.86 0)
+				(length 5.08)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -20.32 -5.08 0)
+				(length 5.08)
+				(name "BOOT"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 20.32 17.78 180)
+				(length 5.08)
+				(name "SW"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 20.32 10.16 180)
+				(length 5.08)
+				(name "HDRV"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 20.32 5.08 180)
+				(length 5.08)
+				(name "PGOOD"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -20.32 12.7 0)
+				(length 5.08)
+				(name "EN"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 20.32 -17.78 180)
+				(length 5.08)
+				(name "AGND_16"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 20.32 -20.32 180)
+				(length 5.08)
+				(name "AGND_17"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "USB4056-03-A_REVA2"
 		(pin_names
 			(offset 1.016)
@@ -2894,7 +3745,7 @@
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "J"
 			(at -12.7 16.002 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -2905,7 +3756,7 @@
 		)
 		(property "Value" "USB4056-03-A_REVA2"
 			(at -12.7 -18.542 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -2916,9 +3767,8 @@
 		)
 		(property "Footprint" "Snapeda:USB4056-03-A_REVA2_GCT_USB4056-03-A_REVA2"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2928,9 +3778,8 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2939,9 +3788,8 @@
 		)
 		(property "Description" ""
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2950,9 +3798,8 @@
 		)
 		(property "MF" "Global Connector Technology"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2962,9 +3809,8 @@
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "3.31 mm"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2974,9 +3820,8 @@
 		)
 		(property "Package" "None"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2986,9 +3831,8 @@
 		)
 		(property "Price" "None"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2998,9 +3842,8 @@
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/USB4056-03-A/Global+Connector+Technology/view-part/?ref=eda"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3010,9 +3853,8 @@
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3022,9 +3864,8 @@
 		)
 		(property "PARTREV" "A2"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3034,9 +3875,8 @@
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USB4056-03-A/Global+Connector+Technology/view-part/?ref=snap"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3046,9 +3886,8 @@
 		)
 		(property "MP" "USB4056-03-A"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3058,9 +3897,8 @@
 		)
 		(property "Description_1" "\nUSB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + (USB 3.1)) Receptacle Connector 24 Position Surface Mount, Right Angle; Through Hole\n"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3070,9 +3908,8 @@
 		)
 		(property "MANUFACTURER" "GCT"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3082,9 +3919,8 @@
 		)
 		(property "Availability" "Not in stock"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3094,9 +3930,8 @@
 		)
 		(property "SNAPEDA_PN" "USB4056-03-A"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3634,7 +4469,7 @@
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "J"
 			(at -15.24 13.97 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -3645,7 +4480,7 @@
 		)
 		(property "Value" "USB4105-GF-A"
 			(at -15.24 -27.94 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -3656,9 +4491,8 @@
 		)
 		(property "Footprint" "Snapeda:USB4105-GF-A_GCT_USB4105-GF-A"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3668,9 +4502,8 @@
 		)
 		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5492/USB4105.pdf"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3679,9 +4512,8 @@
 		)
 		(property "Description" ""
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3690,9 +4522,8 @@
 		)
 		(property "PARTREV" "B4"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3702,9 +4533,8 @@
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3714,9 +4544,8 @@
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "3.31 mm"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3726,9 +4555,8 @@
 		)
 		(property "MANUFACTURER" "GCT"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4050,7 +4878,7 @@
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "J"
 			(at -7.62 10.922 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -4061,7 +4889,7 @@
 		)
 		(property "Value" "USB4125-GF-A_REVA2"
 			(at -7.62 -26.162 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -4072,9 +4900,8 @@
 		)
 		(property "Footprint" "Snapeda:USB4125-GF-A_REVA2_GCT_USB4125-GF-A_REVA2"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4084,9 +4911,8 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4095,9 +4921,8 @@
 		)
 		(property "Description" ""
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4106,9 +4931,8 @@
 		)
 		(property "PARTREV" "Rev A2"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4118,9 +4942,8 @@
 		)
 		(property "MANUFACTURER" "GCT"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4130,9 +4953,8 @@
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "3.16 mm"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4142,9 +4964,8 @@
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4358,7 +5179,7 @@
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "J"
 			(at 0 6.35 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -4369,7 +5190,7 @@
 		)
 		(property "Value" "XT60-M"
 			(at 0 -5.08 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -4380,9 +5201,8 @@
 		)
 		(property "Footprint" "Snapeda:XT60-M_AMASS_XT60-M"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4392,9 +5212,8 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4403,9 +5222,8 @@
 		)
 		(property "Description" ""
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4414,9 +5232,8 @@
 		)
 		(property "MF" "AMASS"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4426,9 +5243,8 @@
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "16.00 mm"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4438,9 +5254,8 @@
 		)
 		(property "Package" "Package"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4450,9 +5265,8 @@
 		)
 		(property "Price" "None"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4462,9 +5276,8 @@
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4474,9 +5287,8 @@
 		)
 		(property "STANDARD" "IPC 7351B"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4486,9 +5298,8 @@
 		)
 		(property "PARTREV" "V1.2"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4498,9 +5309,8 @@
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4510,9 +5320,8 @@
 		)
 		(property "MP" "XT60-M"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4522,9 +5331,8 @@
 		)
 		(property "Description_1" "\nPlug; DC supply; XT60; male; PIN: 2; for cable; soldered; 30A; 500V\n"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4534,9 +5342,8 @@
 		)
 		(property "Availability" "Not in stock"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4546,9 +5353,8 @@
 		)
 		(property "MANUFACTURER" "AMASS"
 			(at 0 0 0)
-			(show_name no)
+			(show_name yes)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
